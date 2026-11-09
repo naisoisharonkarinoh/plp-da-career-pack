@@ -8,7 +8,7 @@
 - Published dashboard: https://naisoisharonkarinoh.github.io/plp-capstone-a-sharon-koina/reports/dashboard.html
 - LinkedIn: https://www.linkedin.com/in/sharon-koina/
 
-**LinkedIn capstone post:** Add the public URL here after publishing your post.
+**LinkedIn capstone post:** https://lnkd.in/p/dSZcKZvC
 
 ## Contents
 - `cv/Sharon_Koina_CV.pdf` — Data Analytics CV.
