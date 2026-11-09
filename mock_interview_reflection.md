@@ -4,7 +4,7 @@
 ## Practice Details
 
 - **Date of practice:** 9 November 2026
-- **Practice format:** AI-assisted online written mock interview
+- **Practice format:** Online written mock interview
 - **Role practised for:** Junior Data Analyst / Data Analyst
 
 ## Interview Questions
